@@ -1,4 +1,5 @@
 # data-science-books
+
 All Data Science and Python Books and various other resources that I have collected over the years has been saved and stored here
 
 # data-science-learning-resources
@@ -14,4 +15,14 @@ All Data Science and Python Books and various other resources that I have collec
   - https://github.com/topics/python-mini-projects
   - https://github.com/Python-World/python-mini-projects
   - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
+  - https://www.mltut.com/best-free-online-courses-for-statistics/
+
+# data-science-learning-resources
+
+  - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
+
+# Resource Link
+
+  - https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
+  - https://www.mltut.com/best-free-online-courses-for-statistics/
   
