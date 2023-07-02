@@ -23,6 +23,8 @@ All Data Science and Python Books and various other resources that I have collec
 
   - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
   - https://www.dataquest.io/blog/python-projects-for-beginners/
+  - https://www.dataquest.io/data-science-courses/
+  - https://www.dataquest.io/path/python-basics-for-data-analysis/
 
 # Resource Link
 
