@@ -20,9 +20,11 @@ All Data Science and Python Books and various other resources that I have collec
 # data-science-learning-resources
 
   - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
+  - https://www.dataquest.io/blog/python-projects-for-beginners/
 
 # Resource Link
 
   - https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
   - https://www.mltut.com/best-free-online-courses-for-statistics/
+  - https://www.dataquest.io/blog/python-projects-for-beginners/
   
